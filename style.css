@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-image: url(53.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: sans-serif;
+}
+h1{
+font-size: 40px;
+color: white;
+margin-top: 160px;
+margin-bottom: 30px;
+}
+h5{
+  font-size: 23px;
+  color: white;
+  margin-top: 70px;
+}
+.form-control{
+  background: transparent;
+  border-radius: 0px;
+  color: white;
+  font-size: 24px;
+  margin-top: 10px;
+  padding: 23px;
+  border: 0px;
+  border-bottom: 2px solid gray;
+}
+.btn-warning{
+  margin-top: 20px;
+  font-size: 19px;
+  width: 180px;
+  border-radius: 0px;
+  background: transparent;
+}
+p{
+  font-size: 19px;
+  color: white;
+  margin-top: 50px;
+}
